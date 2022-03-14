@@ -1,1 +1,1 @@
-# sqlite-database
+# sqlite-database ile ilgili kütüphane projesi
